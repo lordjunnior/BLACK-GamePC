@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗡️ MacNativeGames
+# 🗡️ LordGames
 
 ### Jogue **The Legend of Zelda: Tears of the Kingdom** nativamente no seu Mac com chip Apple Silicon
 
